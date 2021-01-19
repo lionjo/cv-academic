@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Coding
 subtitle:
 
 # Showcase personal skills or business features.
@@ -27,14 +27,18 @@ feature:
 - description: 90%
   icon: fortran
   icon_pack: custom
-  name: Fortran 2003
+  name: Fortran
+- description: 90%
+  icon: cpp
+  icon_pack: custom
+  name: C/C++
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"  
-
+x
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
