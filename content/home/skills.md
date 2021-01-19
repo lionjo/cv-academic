@@ -38,7 +38,7 @@ feature:
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"  
-x
+
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
