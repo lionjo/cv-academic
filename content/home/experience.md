@@ -43,8 +43,8 @@ experience:
     company_url: ''
     location: York
     date_start: '2015-10-01'
-    date_end: '2016-04-31'
-    description: All courses of the module (M.Sc. Fusion Energy)[https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/] (except the research part)
+    date_end: '2016-04-30'
+    description: All courses of the module M.Sc. Fusion Energy (except the research part)
 
   - title: B.Sc. in Physics
     company: University of Heidelberg, Germany
