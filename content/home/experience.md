@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Adapting the systems code PROCESS to general stellarators.
 
-  - title: M.Sc. in Theoretical Physics
+  - title: M.Sc. in Theoretical Physics (Grade: 1.0)
     company: University of Heidelberg, Germany
     company_url: ''
     location: Heidelberg
@@ -38,13 +38,13 @@ experience:
     date_end: '2018-12-31'
     description: Master Thesis in relativistic fluid dynamics for the Quark Gluon Plasma, specialization in quantum field theory and the standard model of particle physics.
 
-  - title: Erasmus Year
+  - title: Exchange Year in Plasma Physics
     company: University of York, UK
     company_url: ''
     location: York
     date_start: '2015-10-01'
     date_end: '2016-04-30'
-    description: All courses of the module (MSc Fusion Energy)[https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/] (except the research part)
+    description: All courses of the module M.Sc. Fusion Energy (except the research part)
 
   - title: B.Sc. in Physics
     company: University of Heidelberg, Germany
@@ -52,6 +52,6 @@ experience:
     location: Heidelberg
     date_start: '2012-10-01'
     date_end: '2015-08-31'
-    description: Grade 1.6
+    description:
 ---
 
