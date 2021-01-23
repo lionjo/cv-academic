@@ -51,5 +51,5 @@ experience:
     location: Heidelberg
     date_start: '2012-10-01'
     date_end: '2015-08-31'
-    description:
+    description: Grade 1.6
 ---
