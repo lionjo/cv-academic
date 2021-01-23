@@ -1,22 +1,18 @@
 ---
 title: Serverless Databases with FaunaDB
-summary: An example of using the in-built project page.
+summary: A step by step guide on how to make a FaunaDB archive to work in connection to web application.
 tags:
 - Tutorials
-date: "2016-04-27T00:00:00Z"
+date: "2021-01-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by netifly
+  caption: Photo by netlify
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,8 +29,25 @@ slides: ""
 This is a test
 
 Some code:
-```
-asdf
+```js
+app.post('/tweet', async (req, res) => {
+
+    const data = {
+        user: Select('ref', Get(Match(Index('users_by_name'), 'fireship_dev'))),
+        text: 'Hello world!'
+    }
+
+    const doc = await client.query(
+        Create(
+            Collection('tweets'),
+            { data }
+        )
+    )
+
+    res.send(doc)
+});
+
+
 ```
 
 Rest
