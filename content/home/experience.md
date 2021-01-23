@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Adapting the systems code PROCESS to general stellarators.
 
-  - title: M.Sc. in Theoretical Physics (Grade: 1.0)
+  - title: M.Sc. in Theoretical Physics
     company: University of Heidelberg, Germany
     company_url: ''
     location: Heidelberg
