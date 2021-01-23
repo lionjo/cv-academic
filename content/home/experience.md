@@ -27,6 +27,7 @@ experience:
     company_url: ''
     location: Greifswald
     date_start: '2019-02-01'
+    date_end: ''
     description: Adapting the systems code PROCESS to general stellarators.
 
   - title: M.Sc. in Theoretical Physics
@@ -43,7 +44,7 @@ experience:
     location: York
     date_start: '2015-10-01'
     date_end: '2016-04-31'
-    description: All courses of the module MSc Fusion Energy (except the research part)
+    description: All courses of the module (M.Sc. Fusion Energy)[https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/] (except the research part)
 
   - title: B.Sc. in Physics
     company: University of Heidelberg, Germany
