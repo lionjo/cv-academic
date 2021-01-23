@@ -36,7 +36,7 @@ experience:
     location: Heidelberg
     date_start: '2019-02-01'
     date_end: '2018-12-31'
-    description: Master Thesis in relativistic fluid dynamics for the Quark Gluon Plasma, specialization in quantum field theory and the standard model of particle physics.
+    description: Master Thesis in relativistic fluid dynamics for the Quark Gluon Plasma, specialization in quantum field theory and the standard model of particle physics. Grade: \1.0
 
   - title: Exchange Year in Plasma Physics
     company: University of York, UK
@@ -52,6 +52,6 @@ experience:
     location: Heidelberg
     date_start: '2012-10-01'
     date_end: '2015-08-31'
-    description: None
+    description: ''
 ---
 
