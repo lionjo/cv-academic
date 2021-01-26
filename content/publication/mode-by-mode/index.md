@@ -15,11 +15,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-01-21T00:00:00Z"
-doi: ""
+date: "2019-07-15T00:00:00Z"
+doi: "https://doi.org/10.1103/PhysRevC.100.014905"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-15T00:00:00Z"
+publishDate: "2021-01-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -58,9 +58,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
