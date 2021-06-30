@@ -44,7 +44,7 @@ experience:
     location: York
     date_start: '2015-10-01'
     date_end: '2016-04-30'
-    description: All courses of the module M.Sc. Fusion Energy (except the research part)
+    description: All courses of the module M.Sc. Fusion Energy.
 
   - title: B.Sc. in Physics
     company: University of Heidelberg, Germany

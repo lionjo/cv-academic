@@ -32,6 +32,10 @@ feature:
   icon: cpp
   icon_pack: custom
   name: C/C++
+- description: 90%
+  icon: git-alt
+  icon_pack: custom
+  name: Git
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
