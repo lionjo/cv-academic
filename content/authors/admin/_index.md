@@ -60,9 +60,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jorrit-lion-546791215/
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
