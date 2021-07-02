@@ -67,10 +67,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< / staticref >}}.
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
 I am a PhD Student at the Max-Planck-Institute for Plasmaphysics located in Greifswald, Germany. I am focussing on reactor relevant stellarator optimization with a focus of technological constraints.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< / staticref >}}.
+
