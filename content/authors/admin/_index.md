@@ -73,5 +73,3 @@ highlight_name: false
 ---
 
 I am a PhD Student at the Max-Planck-Institute for Plasmaphysics located in Greifswald, Germany. I am focussing on reactor relevant stellarator optimization with a focus of technological constraints.
-
-
