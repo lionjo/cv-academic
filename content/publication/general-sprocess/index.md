@@ -1,25 +1,23 @@
 ---
-title: "Fluid dynamics of heavy ion collisions with mode expansion"
+title: "A general stellarator version of the systems
+code PROCESS"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- S. Floerchinger
-- E. Grossi
-- admin
+- J. Lion
+- F. Warmer
+- H. Wang
+- C.D. Beidler
+- S.I. Muldrew
+- R.C. Wolf
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2019-07-15T00:00:00Z"
-doi: "https://doi.org/10.1103/PhysRevC.100.014905"
+date: "2021-10-28T00:00:00Z"
+doi: "https://doi.org/10.1088/1741-4326/ac2dbf"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-21T00:00:00Z"
+publishDate: "2021-10-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,15 +26,16 @@ publishDate: "2021-01-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physical Review C*
-publication_short: In *PRC*
+publication: In *Nuclear Fusion*
+publication_short: In *Nucl. Fus.*
 
-abstract: The fluid dynamics of a relativistic fireball with longitudinal and transverse expansion is described using a background-fluctuation splitting. Symmetry representations of azimuthal rotations and longitudinal boosts are used for a classification of initial state configurations and their fluid dynamic propagation in terms of a mode expansion. We develop an accurate and efficient numerical scheme based on the pseudospectral method to solve the resulting hyperbolic partial differential equations. Comparison to the analytically known Gubser solution underlines the high accuracy of this technique. We also present first applications of fluid dynamics with mode expansion (Fluidum) to central heavy ion collisions at the LHC energies featuring a realistic thermodynamic equations of state as well as shear and bulk viscous dissipation.
+abstract: We present modifications of the fusion reactor systems code PROCESS that allow for a description of a general class of stellarator power plants, based on a stellarator coil-set and the
+respective MHD plasma equilibrium. For this, we modify PROCESS such that each stellarator configuration enters the systems code via a set of effective parameters which can be calculated in advance before using them in new scaling models in PROCESS. Further, we show two applications of the new PROCESS version: firstly, we apply the code to three reactor-size stellarator devices with different aspect ratios, and secondly, to three coil-sets optimized for the same equilibrium with varying coil numbers.
 
 # Summary. An optional shortened abstract.
-summary: We present a new, accurate numerical scheme to solve the relativistic fluid dynamics of the Quark Gluon plasma using a background-fluctuation splitting.
+summary: We present modifications of the fusion reactor systems code PROCESS that allow for a description of a general class of stellarator power plants.
 
-tags: [QGP, Numerics, FluidDynamics]
+tags: [stellarators, systems codes, HELIAS, stellarator reactors, stellarator optimization]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1103/PhysRevC.100.014905'
+url_pdf: 'https://doi.org/10.1088/1741-4326/ac2dbf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -77,3 +76,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
