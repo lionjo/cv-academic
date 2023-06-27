@@ -21,13 +21,21 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:      
-  - title: PhD Candidate
+experience:
+  - title: Co-Founder
+    company: TU Berlin, Germany
+    company_url: 'proximafusion.com'
+    location: Munich
+    date_start: '2023-05-01'
+    date_end: ''
+    description: Pursuing commercialication of fusion with quasi-isodynamic stellarators.
+    
+  - title: PhD in Plasmaphysics
     company: TU Berlin, Germany
     company_url: ''
     location: Greifswald
     date_start: '2019-02-01'
-    date_end: ''
+    date_end: '2023-04-14'
     description: Adapting the systems code PROCESS to general stellarators.
 
   - title: M.Sc. in Theoretical Physics
